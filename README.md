@@ -1,3 +1,5 @@
+Airbnb Data Analysis Project
+
 Project Overview
 
 This project involves analyzing an Airbnb dataset to identify key features that influence room pricing and customer preferences. By leveraging exploratory data analysis (EDA) and machine learning techniques, the project aims to provide actionable insights for property owners and stakeholders to optimize pricing strategies and improve customer satisfaction.
